@@ -1,0 +1,6 @@
+{
+  "name": "Graduation Celebration",
+  "description": "A beautiful, romantic graduation celebration application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
